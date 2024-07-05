@@ -1,0 +1,27 @@
+body {
+  background-color: #1a1a2e;
+  color: white;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+a {
+  color: #ff7675;
+}
+
+a:hover {
+  color: #a29bfe;
+}
